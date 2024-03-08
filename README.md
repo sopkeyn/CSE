@@ -7,3 +7,5 @@ Control engineering (or Control System Engineering) is the process of designing,
 
 Why is control system engineering important?
 Control system engineering ensures that there is a strategic method to improving productivity and enhancing the best practices of your company. You want to eliminate the redundant manual controls and reduce human errors that could cost you a significant amount of money.
+
+*What is the purpose of control system?*
