@@ -3,7 +3,7 @@
 
 Control engineering (or Control System Engineering) is the process of designing, analyzing, and optimizing a control system. A control system is a set of devices that regulates the behavior of other devices or systems.
 
-A control system manages, commands, directs, or regulates the behavior of other devices or systems using control loops. It can range from a single home heating controller using a thermostat controlling a domestic boiler to large industrial control systems which are used for controlling processes or machines.
+Control system manages, commands, directs, or regulates the behavior of other devices or systems using control loops. It can range from a single home heating controller using a thermostat controlling a domestic boiler to large industrial control systems which are used for controlling processes or machines.
 
 *Why Control System Engineering important?*
 
